@@ -1,0 +1,10 @@
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\obj\Debug\netcoreapp2.0\Ch03_SelectionStatements.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\obj\Debug\netcoreapp2.0\Ch03_SelectionStatements.AssemblyInfoInputs.cache
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\obj\Debug\netcoreapp2.0\Ch03_SelectionStatements.AssemblyInfo.cs
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\bin\Debug\netcoreapp2.0\Ch03_SelectionStatements.deps.json
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\bin\Debug\netcoreapp2.0\Ch03_SelectionStatements.runtimeconfig.json
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\bin\Debug\netcoreapp2.0\Ch03_SelectionStatements.runtimeconfig.dev.json
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\bin\Debug\netcoreapp2.0\Ch03_SelectionStatements.dll
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\bin\Debug\netcoreapp2.0\Ch03_SelectionStatements.pdb
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\obj\Debug\netcoreapp2.0\Ch03_SelectionStatements.dll
+D:\Source\Testing\Chapter03\Ch03_SelectionStatements\obj\Debug\netcoreapp2.0\Ch03_SelectionStatements.pdb

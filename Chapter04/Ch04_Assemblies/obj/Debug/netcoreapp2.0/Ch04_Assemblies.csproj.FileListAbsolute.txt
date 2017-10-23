@@ -1,0 +1,3 @@
+D:\Source\Testing\Chapter04\Ch04_Assemblies\obj\Debug\netcoreapp2.0\Ch04_Assemblies.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Assemblies\obj\Debug\netcoreapp2.0\Ch04_Assemblies.AssemblyInfoInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Assemblies\obj\Debug\netcoreapp2.0\Ch04_Assemblies.AssemblyInfo.cs

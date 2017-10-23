@@ -1,0 +1,10 @@
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\bin\Debug\netcoreapp2.0\Ch04_Dictionaries.deps.json
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\bin\Debug\netcoreapp2.0\Ch04_Dictionaries.runtimeconfig.json
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\bin\Debug\netcoreapp2.0\Ch04_Dictionaries.runtimeconfig.dev.json
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\bin\Debug\netcoreapp2.0\Ch04_Dictionaries.dll
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\bin\Debug\netcoreapp2.0\Ch04_Dictionaries.pdb
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\obj\Debug\netcoreapp2.0\Ch04_Dictionaries.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\obj\Debug\netcoreapp2.0\Ch04_Dictionaries.AssemblyInfoInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\obj\Debug\netcoreapp2.0\Ch04_Dictionaries.AssemblyInfo.cs
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\obj\Debug\netcoreapp2.0\Ch04_Dictionaries.dll
+D:\Source\Testing\Chapter04\Ch04_Dictionaries\obj\Debug\netcoreapp2.0\Ch04_Dictionaries.pdb

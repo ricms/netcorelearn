@@ -1,0 +1,10 @@
+D:\Source\Testing\Chapter04\Ch04_Internationalization\bin\Debug\netcoreapp2.0\Ch04_Internationalization.deps.json
+D:\Source\Testing\Chapter04\Ch04_Internationalization\bin\Debug\netcoreapp2.0\Ch04_Internationalization.runtimeconfig.json
+D:\Source\Testing\Chapter04\Ch04_Internationalization\bin\Debug\netcoreapp2.0\Ch04_Internationalization.runtimeconfig.dev.json
+D:\Source\Testing\Chapter04\Ch04_Internationalization\bin\Debug\netcoreapp2.0\Ch04_Internationalization.dll
+D:\Source\Testing\Chapter04\Ch04_Internationalization\bin\Debug\netcoreapp2.0\Ch04_Internationalization.pdb
+D:\Source\Testing\Chapter04\Ch04_Internationalization\obj\Debug\netcoreapp2.0\Ch04_Internationalization.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Internationalization\obj\Debug\netcoreapp2.0\Ch04_Internationalization.AssemblyInfoInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Internationalization\obj\Debug\netcoreapp2.0\Ch04_Internationalization.AssemblyInfo.cs
+D:\Source\Testing\Chapter04\Ch04_Internationalization\obj\Debug\netcoreapp2.0\Ch04_Internationalization.dll
+D:\Source\Testing\Chapter04\Ch04_Internationalization\obj\Debug\netcoreapp2.0\Ch04_Internationalization.pdb

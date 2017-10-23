@@ -1,0 +1,10 @@
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.0\Ch03_HandlingExceptions.deps.json
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.0\Ch03_HandlingExceptions.runtimeconfig.json
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.0\Ch03_HandlingExceptions.runtimeconfig.dev.json
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.0\Ch03_HandlingExceptions.dll
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\bin\Debug\netcoreapp2.0\Ch03_HandlingExceptions.pdb
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.0\Ch03_HandlingExceptions.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.0\Ch03_HandlingExceptions.AssemblyInfoInputs.cache
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.0\Ch03_HandlingExceptions.AssemblyInfo.cs
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.0\Ch03_HandlingExceptions.dll
+D:\Source\Testing\Chapter03\Ch03_HandlingExceptions\obj\Debug\netcoreapp2.0\Ch03_HandlingExceptions.pdb

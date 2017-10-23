@@ -1,0 +1,10 @@
+D:\Source\Testing\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.deps.json
+D:\Source\Testing\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.runtimeconfig.json
+D:\Source\Testing\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.runtimeconfig.dev.json
+D:\Source\Testing\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.dll
+D:\Source\Testing\Ch01_WelcomeDotNetCore\bin\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.pdb
+D:\Source\Testing\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.AssemblyInfoInputs.cache
+D:\Source\Testing\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.AssemblyInfo.cs
+D:\Source\Testing\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.dll
+D:\Source\Testing\Ch01_WelcomeDotNetCore\obj\Debug\netcoreapp2.0\Ch01_WelcomeDotNetCore.pdb

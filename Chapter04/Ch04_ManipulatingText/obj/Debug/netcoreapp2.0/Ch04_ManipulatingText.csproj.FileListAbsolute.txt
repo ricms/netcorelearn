@@ -1,0 +1,10 @@
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\obj\Debug\netcoreapp2.0\Ch04_ManipulatingText.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\obj\Debug\netcoreapp2.0\Ch04_ManipulatingText.AssemblyInfoInputs.cache
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\obj\Debug\netcoreapp2.0\Ch04_ManipulatingText.AssemblyInfo.cs
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\bin\Debug\netcoreapp2.0\Ch04_ManipulatingText.deps.json
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\bin\Debug\netcoreapp2.0\Ch04_ManipulatingText.runtimeconfig.json
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\bin\Debug\netcoreapp2.0\Ch04_ManipulatingText.runtimeconfig.dev.json
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\bin\Debug\netcoreapp2.0\Ch04_ManipulatingText.dll
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\bin\Debug\netcoreapp2.0\Ch04_ManipulatingText.pdb
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\obj\Debug\netcoreapp2.0\Ch04_ManipulatingText.dll
+D:\Source\Testing\Chapter04\Ch04_ManipulatingText\obj\Debug\netcoreapp2.0\Ch04_ManipulatingText.pdb

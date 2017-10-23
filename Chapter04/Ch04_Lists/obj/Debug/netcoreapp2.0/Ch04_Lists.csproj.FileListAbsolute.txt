@@ -1,0 +1,10 @@
+D:\Source\Testing\Chapter04\Ch04_Lists\bin\Debug\netcoreapp2.0\Ch04_Lists.deps.json
+D:\Source\Testing\Chapter04\Ch04_Lists\bin\Debug\netcoreapp2.0\Ch04_Lists.runtimeconfig.json
+D:\Source\Testing\Chapter04\Ch04_Lists\bin\Debug\netcoreapp2.0\Ch04_Lists.runtimeconfig.dev.json
+D:\Source\Testing\Chapter04\Ch04_Lists\bin\Debug\netcoreapp2.0\Ch04_Lists.dll
+D:\Source\Testing\Chapter04\Ch04_Lists\bin\Debug\netcoreapp2.0\Ch04_Lists.pdb
+D:\Source\Testing\Chapter04\Ch04_Lists\obj\Debug\netcoreapp2.0\Ch04_Lists.csproj.CoreCompileInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Lists\obj\Debug\netcoreapp2.0\Ch04_Lists.AssemblyInfoInputs.cache
+D:\Source\Testing\Chapter04\Ch04_Lists\obj\Debug\netcoreapp2.0\Ch04_Lists.AssemblyInfo.cs
+D:\Source\Testing\Chapter04\Ch04_Lists\obj\Debug\netcoreapp2.0\Ch04_Lists.dll
+D:\Source\Testing\Chapter04\Ch04_Lists\obj\Debug\netcoreapp2.0\Ch04_Lists.pdb
